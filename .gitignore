@@ -1,6 +1,6 @@
 *.jpg
 *.png
 *.ipynb
-*.pkl
+*.txt
 __pycache__/
 eecs598/
